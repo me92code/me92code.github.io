@@ -36,3 +36,16 @@ Não usarei ou compartilharei suas informações com ninguém, exceto conforme d
 Os termos usados nesta Política de Privacidade têm os mesmos significados que em nossos Termos e Condições, acessíveis no Dólar Hoje, a menos que definidos de outra forma nesta Política de Privacidade.
 
 ## Coleta e uso de informações
+
+Para uma experiência melhor, ao usar nosso Serviço, posso solicitar que você nos forneça certas informações de identificação pessoal. As informações solicitadas serão retidas no seu dispositivo e não serão coletadas por mim de forma alguma.
+
+O aplicativo usa serviços de terceiros que podem coletar informações usadas para identificá-lo.
+
+Link para a política de privacidade de provedores de serviços de terceiros usados pelo aplicativo:
+
+- [Google Play Services](https://www.google.com/policies/privacy/)
+- [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+- [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
+- [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+
+## Dados de log
