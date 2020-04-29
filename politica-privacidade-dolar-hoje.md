@@ -89,3 +89,36 @@ Esta política é efetiva a partir de 22/04/2020.
 Se você tiver alguma dúvida ou sugestão sobre minha Política de Privacidade, não hesite em me contactar em atavés do email me92code@gmail.com.
 
 
+# Privacy Policy
+
+We understand the importance of the privacy of your browsing and use. So we will clarify some points.
+
+This privacy policy shows how we use and protect any information collected while you use the application.
+
+Downloading and using the Dollar Today application implies acceptance of this PRIVACY POLICY AGREEMENT.
+
+We reserve the right to change this agreement without prior notice. Therefore, we recommend that you check our privacy policy regularly so that you are always up to date.
+
+Like the vast majority of applications, Dollar Today uses Google services such as:
+
+Google Play Service, is a service used as a basis in the development of Android applications.
+
+Firbase Analytics, is a tool used to collect and store statistical data on the use of the app.
+Helping you understand how people use your app.
+
+Firebase Crashlytics, is a lightweight, real-time crash reporting tool that helps you monitor, prioritize and fix stability issues that compromise the quality of your application.
+
+AdMob, which is a platform used to display ads on our apps. This platform collects information from users to determine their interests and thus display targeted ads.
+
+Below is a breakdown of this policy.
+
+The content of this page is for information only.
+
+The dollar value presented in the Dollar Today application is informative and the closest to the value of the Commercial Dollar.
+
+ME92 Code built the Dólar Hoje app as a Free app. This SERVICE is provided by ME92 Code at no cost and is intended for use as is.
+
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Dólar Hoje unless otherwise defined in this Privacy Policy.
