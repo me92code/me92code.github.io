@@ -35,6 +35,15 @@ Não usarei ou compartilharei suas informações com ninguém, exceto conforme d
 
 Os termos usados nesta Política de Privacidade têm os mesmos significados que em nossos Termos e Condições, acessíveis no Dólar Hoje, a menos que definidos de outra forma nesta Política de Privacidade.
 
+## Isenção de Responsabilidade
+Não garantimos a precisão dos dados fornecidos pelo aplicativo, uma vez que devem ser utilizados apenas para efeitos informativos.
+Recomendamos que confirme todos os dados antes de efetuar qualquer ação que possa ser afetada por estes valores.
+Os dados são obtidos de fontes públicas da internet e podem sofrer alterações sem aviso prévio.
+
+Todas as informações provenientes das buscas em fontes terceiras, a ME92 Code não tem responsabilidade e nem se responsabiliza pelos consequentes efeitos que o uso dessas informações possa causar.
+
+A ME92 Code também não assume qualquer responsabilidade pela veracidade de tais informações, uma vez que elas são oriundas de uma fonte externa (API) e são mantidas por terceiros.
+
 ## Coleta e uso de informações
 
 Para uma experiência melhor, ao usar nosso Serviço, posso solicitar que você nos forneça certas informações de identificação pessoal. As informações solicitadas serão retidas no seu dispositivo e não serão coletadas por mim de forma alguma.
@@ -122,6 +131,13 @@ This page is used to inform visitors regarding my policies with the collection, 
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Dólar Hoje unless otherwise defined in this Privacy Policy.
+
+## Disclaimer of Liability
+We do not guarantee the accuracy of the data provided by the application, since they must be used for informational purposes only. We recommend that you confirm all data before taking any action that may be affected by these values. Data are obtained from public internet sources and may change without notice.
+
+All information from searches on third party sources, the ME92 Code has no responsibility and is not responsible for the consequent effects that the use of this information may cause.
+
+ME92 Code also does not assume any responsibility for the veracity of such information, since it comes from an external source (API) and is maintained by third parties.
 
 ## Information Collection and Use
 
