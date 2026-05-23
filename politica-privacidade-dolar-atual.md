@@ -112,3 +112,122 @@ Podemos atualizar nossa Política de Privacidade periodicamente. Recomendamos re
 ## ✉️ Contato
 
 Se você tiver alguma dúvida, solicitação sobre seus dados (LGPD) ou sugestão sobre nossa Política de Privacidade, não hesite em nos contatar através do e-mail: **me92code@gmail.com**.
+
+---
+
+<br>
+
+# 📄 Privacy Policy - Dólar Atual
+
+We understand the importance of your privacy while browsing and using our app. Therefore, we have prepared this document to transparently clarify how we handle your data.
+
+This privacy policy explains how we use and protect any information collected while you use the **Dólar Atual** application. Downloading and using the application implies acceptance of this Privacy Policy Agreement.
+
+We reserve the right to change this agreement. Thus, we recommend that you consult our policy regularly to always be up to date.
+
+---
+
+## 🛠️ Third-Party Services Used
+
+Like the vast majority of applications, Dólar Atual uses Google services to function correctly and display ads:
+
+*   **Google Play Services:** Service used as a basis in Android application development.
+*   **Firebase Analytics:** Tool used to collect and store statistical usage data. It helps us understand how people use the app so we can improve it.
+*   **Firebase Crashlytics:** Real-time crash reporting tool that helps monitor, prioritize, and fix stability issues.
+*   **AdMob:** Platform used to display ads. This platform may use consent information to display targeted or generic ads.
+
+---
+
+## ⚠️ Disclaimer
+
+The dollar value presented in the application is for informational purposes and is as close as possible to the Commercial Dollar value. 
+
+We do not guarantee the exact accuracy of the data provided, as it should be used for informational purposes only. We recommend that you confirm all data before taking any financial action. The data is obtained from public internet sources (third-party APIs) and may change without prior notice. ME92 Code assumes no responsibility for any losses or damages resulting from the use of this information.
+
+---
+
+## 📊 Information Collection and Use
+
+To provide a better experience, the application uses third-party services that collect statistical and usage data. 
+
+**What you need to know about your data:**
+*   **Transparency:** Pseudonymized analytical data (without direct identification) is sent to providers (Google/Firebase) exclusively to understand app usage and improve our services.
+*   **Extra Protection (No cross-tracking):** We have configured the application to **NOT collect your Advertising ID (AdID)**.
+*   **Locally Saved Data:** All information, data, and preferences you enter in the app — such as **price alerts, tracked items, conversion history, and widget settings** — are saved **only locally** in your own device's database. We do not have access to, transfer to our servers, or share this data with anyone.
+*   **Notifications:** The application uses local notifications to inform you about reached value alerts. All processing of these checks occurs on your own device.
+
+Links to the privacy policies of third-party service providers used by the application:
+*   [Google Play Services](https://policies.google.com/privacy)
+*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
+*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+
+---
+
+## ⚙️ Consent Management and Revocation
+
+You have full control over your privacy. In compliance with the LGPD and global data protection guidelines, you can change or revoke your consent for analytical data collection and personalized ads display at any time.
+
+*   **How to change:** Just access the **Settings** tab within the application and click on **Privacy Preferences** (or Manage Privacy Options). The official consent form will reopen so you can adjust your choices.
+
+---
+
+## 📋 Log Data and Legitimate Interest (Crashes and Bugs)
+
+Whenever you use our service and an error (crash) occurs in the application, we collect data and technical information on your phone, called *Log Data*, through Firebase Crashlytics.
+
+This data may include information such as your IP address (anonymized), device name, operating system version, the configuration of the app when utilizing our service, the time and date of your use of the service, and other statistics.
+
+**Legal Basis:** The collection of this technical error data is carried out under the legal basis of **Legitimate Interest**, with the sole purpose of identifying failures, fixing bugs, and ensuring the stability and security of the application for all users. None of this information is used to identify you personally or for marketing purposes.
+
+---
+
+## 🍪 Cookies
+
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. This application does not use "cookies" explicitly. However, third-party libraries (such as AdMob) may use similar technologies to collect information and improve their ad services. 
+
+Through our initial consent screen, you have the option to accept or refuse the use of these technologies for personalization purposes.
+
+---
+
+## 🤝 Service Providers
+
+We may employ third-party companies and individuals due to the following reasons:
+*   To facilitate our Service;
+*   To provide the Service on our behalf;
+*   To perform Service-related infrastructure services;
+*   To assist us in analyzing how our Service is used.
+
+These third parties have access to limited information only to perform the tasks assigned to them on our behalf, and they are strictly prohibited from disclosing or using the information for any other purpose.
+
+---
+
+## 🔒 Security
+
+We value your trust in using our application. We strive to use commercially acceptable means of protecting data. However, remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+
+---
+
+## 🔗 Links to Other Sites
+
+This service may contain links to other sites (e.g., through ads). If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites.
+
+---
+
+## 🛡️ Children's Privacy
+
+Our services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children. In the case we discover that a child has provided us with personal information, we will take steps to delete it immediately. If you are a parent or guardian and you are aware that your child has provided us with information, please contact us.
+
+---
+
+## 🔄 Changes to This Privacy Policy
+
+We may update our Privacy Policy periodically. We advise you to review this page frequently for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+**Effective date of the last update:** May 2026.
+
+---
+
+## ✉️ Contact Us
+
+If you have any questions, requests about your data (LGPD/GDPR), or suggestions about our Privacy Policy, do not hesitate to contact us via email: **me92code@gmail.com**.
